@@ -1,0 +1,75 @@
+{
+  "project": "VR-LA-PL Framework",
+  "description": "Sample stored responses for the three-mode questionnaire (Mode 1, Mode 2, Mode 3)",
+  "generated_at": "2025-11-20T05:30:09.323532Z",
+  "responses": [
+    {
+      "response_id": "resp-0001",
+      "participant_id": "stu-101",
+      "age": 10,
+      "grade": "4",
+      "session_id": "sess-20251118-01",
+      "timestamp": "2025-11-18T14:00:00Z",
+      "mode": "Mode 1",
+      "answers": {
+        "familiar_with_subject": "Agree",
+        "confident_topics": [
+          "Maps",
+          "Cardinal Points"
+        ],
+        "challenging_topics": [
+          "Compass orientation"
+        ],
+        "preferred_pace": "Moderate",
+        "preferred_activities": [
+          "Hands-on practice",
+          "Group work"
+        ],
+        "motivation": "Agree",
+        "prior_skills": "Basic map reading in class"
+      }
+    },
+    {
+      "response_id": "resp-0002",
+      "participant_id": "stu-102",
+      "age": 9,
+      "grade": "4",
+      "session_id": "sess-20251118-02",
+      "timestamp": "2025-11-18T14:10:00Z",
+      "mode": "Mode 2",
+      "answers": {
+        "familiar_with_topic": "Neutral",
+        "recognized_concepts": [
+          "North",
+          "Map scale"
+        ],
+        "expected_difficulties": "Interpreting compass degrees",
+        "preferred_pre_support": "Video explanation",
+        "preferred_activity": "Exploration in VR"
+      }
+    },
+    {
+      "response_id": "resp-0003",
+      "participant_id": "stu-101",
+      "age": 10,
+      "grade": "4",
+      "session_id": "sess-20251118-01",
+      "timestamp": "2025-11-18T15:00:00Z",
+      "mode": "Mode 3",
+      "answers": {
+        "teaching_practices_helpful": [
+          "VR activities",
+          "Demonstrations"
+        ],
+        "preferred_formats": [
+          "VR-based activities",
+          "Guided practice"
+        ],
+        "alignment_with_preferences": "Agree",
+        "assessment_preference": "Frequent quizzes",
+        "strategies_for_difficult_topics": "Step-by-step guided practice",
+        "suggestions_for_vr": "Reduce distracting animals"
+      }
+    }
+  ]
+}
