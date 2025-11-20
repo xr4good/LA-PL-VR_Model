@@ -1,4 +1,4 @@
-# Open Science Supplementary Materials for VR–LA–PL Framework
+# Open Science Supplementary Materials for LA–PL-VR Framework
 
 This repository contains supplementary materials for the conceptual VR–LA–PL framework (Ahsan et al., 2025).
 
