@@ -2,11 +2,15 @@
 
 **Likert scale (agreement):** Strongly Disagree / Disagree / Neutral / Agree / Strongly Agree
 
+---
 ## Mode 1 — Learner Background Profiling
 Purpose: Initialize the Student Model by capturing pace, interest, prior knowledge, and skills.
 
+**Target Use:**  
+Completed at the beginning of the course or before the first VR session.
+
 1. I am familiar with the subject of this course.  
-   - Strongly Disagree / Disagree / Neutral / Agree / Strongly Agree
+   - Strongly Disagree - Disagree - Neutral - Agree - Strongly Agree
 2. List the topics in this subject area that you feel most confident about. (Open)
 3. List the topics you find challenging. (Open)
 4. My preferred learning pace is: Slow / Moderate / Fast
@@ -19,6 +23,9 @@ Purpose: Initialize the Student Model by capturing pace, interest, prior knowled
 ## Mode 2 — Pre-Topic Awareness
 Purpose: Assess readiness before each VR session.
 
+**Target Used:**  
+Before each module / VR learning session.
+
 1. I am familiar with the upcoming topic.  
    - Strongly Disagree / Disagree / Neutral / Agree / Strongly Agree
 2. Which concepts related to this topic do you already recognize? (Checklist/Open)
@@ -30,6 +37,9 @@ Purpose: Assess readiness before each VR session.
 
 ## Mode 3 — Course Feedback & Teaching Preference Alignment
 Purpose: Refine instructional strategies and update the Teacher Model.
+
+**Target Used:**  
+After each module or at the end of a learning cycle.
 
 1. The teaching practices used in this module helped me understand the content.  
    - Strongly Disagree / Disagree / Neutral / Agree / Strongly Agree
