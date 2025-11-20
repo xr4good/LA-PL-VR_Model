@@ -7,6 +7,8 @@ Files included:
 - `questionnaire_modes.md` — Human-readable questionnaire instruments.
 - `reverse_engineering.md` — Reverse-engineering procedure and notes.
 - `questionnaire_flowchart.svg` / `.png` — Visual flowchart of the 3-mode questionnaire cycle.
+- `game mechanis with proposal.xlsx` — A table included game mechanics with framwork components.
+- `Open Science and Supplementary Materials.pdf` — conains all information foe easy understanding.
 
 Note: This project is at the conceptual stage. No human-subjects data are included in this release.
 
